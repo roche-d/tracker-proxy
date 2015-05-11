@@ -1,0 +1,9 @@
+{
+  "name": "tracker-proxy-epi",
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "http-proxy": "^1.11.1",
+    "node-http-proxy": "^0.2.3"
+  }
+}
