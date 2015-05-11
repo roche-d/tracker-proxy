@@ -25,5 +25,5 @@ var server = http.createServer(function(req, res) {
     //http://tracker.t411.io:56969/0dad9247ce28ccbaea3039fef799024c/announce
 });
 
-console.log("listening on port 8080")
+console.log("listening on port 8080");
 server.listen(8080);
